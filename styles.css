@@ -40,6 +40,7 @@ li {
   margin: 20px auto;
   border-radius: 10px;
   max-width: 600px;
+  background-color: #fffd8d;
 }
 .weather-icon {
   height: 64px;
