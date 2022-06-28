@@ -80,10 +80,7 @@ li {
 .search-form {
   margin-bottom: 30px;
 }
-.precipitation {
-  color: rgb(0, 140, 255);
-  font-size: 18px;
-}
+
 .humidity {
   color: rgb(0, 140, 255);
   font-size: 18px;
