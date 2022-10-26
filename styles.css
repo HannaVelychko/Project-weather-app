@@ -28,10 +28,10 @@ li {
 }
 .btn-primary {
   background-color: white;
-  color: rgb(0, 140, 255);
+  color: #00bdcc;
 }
 .btn-success {
-  background-color: rgb(0, 140, 255);
+  background-color: #00bdcc;
   color: white;
 }
 .weather-app {
@@ -39,8 +39,12 @@ li {
   padding: 15px;
   margin: 20px auto;
   border-radius: 10px;
-  max-width: 600px;
-  background-color: #fffd8d;
+  max-width: 800px;
+  background: linear-gradient(
+    178.3deg,
+    rgb(188, 251, 255) 11.5%,
+    rgb(255, 253, 14) 103.1%
+  );
 }
 .weather-icon {
   height: 64px;
@@ -90,7 +94,7 @@ li {
   font-size: 18px;
 }
 .link-source {
-  margin-left: 80px;
+  margin-left: 10px;
 }
 .weather-forecast {
   margin: 20px;
